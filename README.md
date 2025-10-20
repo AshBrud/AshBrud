@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Herolde GUIELLE
 
 💡 **Digital Consultant** & **Lead Developer** at **GeenkoDev**  
-🚀 Focused on building efficient, cross-platform software and driving digital transformation.  
+🚀 Focused on building efficient, cross-platform software, designing APIs, and driving digital transformation.  
+🖥 Passionate about servers, deployment, and security, with hands-on experience in configuring and securing server environments.
 
 ---
 
 ### 🧰 Tech Stack
 - **Frontend:** React, TypeScript, TailwindCSS  
-- **Backend:** Tauri (Rust), Node.js  
+- **Backend:** Tauri (Rust), Node.js, Python (API development)  
+- **DevOps & Servers:** Linux server setup, deployment automation, security hardening  
 - **Tools:** Git, GitHub Actions, Docker  
 - **Other interests:** Software architecture, DevOps automation, UI/UX design
 
